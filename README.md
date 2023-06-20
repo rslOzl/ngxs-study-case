@@ -1,4 +1,4 @@
-# Untitled2
+# State Management with Ngxs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
